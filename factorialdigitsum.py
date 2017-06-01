@@ -9,7 +9,7 @@ def factorial(n):
     total1 = total1 + int(i) 
   print total1
   
-  return 
+  return ## Gives 648
 
 
 
